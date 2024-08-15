@@ -51,7 +51,6 @@ export const Button = ({
 					background-color: ${backgroundColor};
 				}
 			`}</style>
-			testig
 		</button>
 	);
 };
